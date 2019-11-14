@@ -1,9 +1,5 @@
 # h
-<<<<<<< Updated upstream
-
-AHQBKAXHIOHL±È½ÏºÃ
-=======
+AHQBKAXHIOHL
 123
 AHQBKAXHIOHL
->>>>>>> Stashed changes
 00000000000000000
